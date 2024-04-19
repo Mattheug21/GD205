@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Hamster project.unity
+    guid: 228283946e5090e4ab3538500b1a2874
   m_configObjects: {}
